@@ -4,7 +4,7 @@
 
 # React Places Autocomplete
 
-A React component to build a customized UI for Google Maps Places Autocomplete
+A React component to build a customized UI for Google Maps Places Autocomplete. This component supports the GoogleApiWrapper from [google-maps-react](https://github.com/fullstackreact/google-maps-react).
 
 ### Demo
 
